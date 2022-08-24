@@ -2,7 +2,7 @@
 This repository brings all maps that have been removed from beta 1.0 up until release 1.5 back into 1.6. Includes Yet Another POD Bot (YAPB) graphs.
 
 ### Usage
-Paste all the files except this readme into your CS 1.6 directory.
+Paste all the files except this readme into your cstrike directory.
 
 ### Maps (Strikethroughs already included in 1.6)
 - Beta 1.0
