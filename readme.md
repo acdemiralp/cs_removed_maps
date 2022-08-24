@@ -75,5 +75,5 @@ Paste all the files except this readme into your cstrike directory.
   - [x] ~~Piranesi~~
 
 ### TODO
-- Overviews.
-- Resource files (need to find out associations).
+- Missing overviews.
+- Missing resource bindings.
