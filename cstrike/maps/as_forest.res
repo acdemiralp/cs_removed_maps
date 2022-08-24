@@ -1,0 +1,9 @@
+overviews/as_forest.bmp
+overviews/as_forest.txt
+sound/cicada1.wav
+sound/cicada3.wav
+sound/crow.wav
+sound/fallscream.wav
+sound/kajika.wav
+sound/ratchant.wav
+sound/sparrow.wav

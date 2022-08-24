@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.02
+	ORIGIN	-304	960	-1089
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/as_forest.bmp"
+	HEIGHT	-1089
+}

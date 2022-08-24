@@ -1,0 +1,14 @@
+// overview description file for as_riverside.bsp  (by d-o-Maxx@borgnet.de)
+
+global 
+{
+	ZOOM	0.98
+	ORIGIN	64.00     16.00     -353.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/as_riverside.bmp"
+	HEIGHT	-353.00
+}
