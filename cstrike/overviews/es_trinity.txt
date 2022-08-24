@@ -1,0 +1,14 @@
+// overview description file for es_trinity.bsp
+
+global 
+{
+	ZOOM	1.03
+	ORIGIN	4.50	351.50	-731
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/es_trinity.bmp"
+	HEIGHT	-731
+}
