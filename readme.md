@@ -10,6 +10,7 @@ This repository archives the removed maps of Counter-Strike, specifically the fo
 - **Beta 6.5**: Forest, Trinity, Tundra
 - **Beta 7.0**: Arabstreets, Foption, Highrise, Jeepathon2k, Vegas
 - **Release 1.1**: Rotterdam, Thunder
+
 It additionally contains:
 - A `mapcycle.txt` cycling all maps including 1.6.
 - A `maps.ini` for [AMX Mod X](https://github.com/alliedmodders/amxmodx), cycling all maps including 1.6.
