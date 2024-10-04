@@ -12,9 +12,9 @@ This repository archives the removed official maps of Counter-Strike, specifical
 - **Release 1.1**: Rotterdam, Thunder
 
 It additionally contains:
-- A [mapcycle.txt](cstrike/mapcycle.txt) cycling all official maps including non-removed maps.
-- A [maps.ini](cstrike/addons/amxmodx/maps.ini) for [AMX Mod X](https://github.com/alliedmodders/amxmodx) cycling all official maps including non-removed maps.
-- [Graphs](cstrike/addons/yapb/data/graph/) for [Yet Another POD Bot (YAPB)](https://github.com/yapb/yapb) covering all official maps including non-removed maps.
+- A [mapcycle.txt](cstrike/mapcycle.txt) cycling all official maps, including non-removed maps.
+- A [maps.ini](cstrike/addons/amxmodx/maps.ini) for [AMX Mod X](https://github.com/alliedmodders/amxmodx) cycling all official maps, including non-removed maps.
+- [Graphs](cstrike/addons/yapb/data/graph/) for [Yet Another POD Bot (YAPB)](https://github.com/yapb/yapb) covering all official maps, including non-removed maps.
 
 ### Installation
 Copy everything into your `cstrike` directory.
