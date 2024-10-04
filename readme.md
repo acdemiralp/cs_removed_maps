@@ -13,8 +13,8 @@ This repository archives the removed maps of Counter-Strike, specifically the fo
 
 It additionally contains:
 - A `mapcycle.txt` cycling all maps including 1.6.
-- A `maps.ini` for [AMX Mod X](https://github.com/alliedmodders/amxmodx), cycling all maps including 1.6.
-- Graphs for [Yet Another POD Bot (YAPB)](https://github.com/yapb/yapb), for all maps including 1.6.
+- A `maps.ini` for [AMX Mod X](https://github.com/alliedmodders/amxmodx) cycling all maps including 1.6.
+- Graphs for [Yet Another POD Bot (YAPB)](https://github.com/yapb/yapb) covering all maps including 1.6.
 
 ### Installation
 Copy everything into your `cstrike` directory.
