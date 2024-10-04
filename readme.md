@@ -1,9 +1,9 @@
-### Counter-Strike Removed Maps
+## Counter-Strike Removed Maps
 This repository brings all maps that have been removed from beta 1.0 up until release 1.5 back into 1.6.
 Includes [Yet Another POD Bot (YAPB)](https://github.com/yapb/yapb) graphs.
 
 ### Installation
-Copy everything except this readme into your cstrike directory.
+Copy everything except this readme into your `cstrike` directory.
 
 ### Maps
 - **Beta 1.0**: Mansion, Prison, Wpndepot
